@@ -22,6 +22,7 @@ export default function RootLayout({
           <Link href={'/'}>Home</Link>
           <Link href={'/test'}>Test</Link>
           <Link href={'/otherroute'}>Other Route</Link>
+          <Link href={'/dadjokes'}>Dad Jokes</Link>
         </nav>
         {children}
       </body>
